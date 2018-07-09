@@ -6,11 +6,11 @@ Instead of using the raw socket interface,we implement FillP atop UDP in the tra
 
 ## 0. Clone and Setup
 
-    git clone https://github.com/fillthepipe/fill-the-pipe.git
+    git clone https://github.com/superlitoong/fillp-sheep.git
 
     cd client   or    cd server
 
-    export LD_LIBRARY_PATH=./  (this should be done on both server and client to enable the path)
+    export LD_LIBRARY_PATH=./  (this should be done in both server and client folders to enable the path)
 
 ## 1. Buffer Configuration
 
