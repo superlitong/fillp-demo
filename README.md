@@ -2,11 +2,10 @@
 
 FillP is a light-weight transport protocol for massive data transmssion, aiming at improving the transfer performance by filling up the pipe while maintaining reliability and efficiency.
 
-Instead of using the raw socket interface,we implement FillP atop UDP in the transport layer which does not need root privilege to be installed and changes to the existing applications.
 
 ## 0. Clone and Setup
 
-    git clone https://github.com/superlitoong/fillp-sheep.git
+    git clone https://github.com/superlitong/fillp-sheep.git
 
     cd client   or    cd server
 
