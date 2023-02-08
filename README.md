@@ -1,6 +1,6 @@
 # About
 
-This repository provides a demo of FillP, containing the executable files of a client and a server. FillP is a UDP-based full transport protocol implementation of [TACK](https://dl.acm.org/doi/abs/10.1145/3387514.3405850). A world-wide performance evaluation of FillP can be seen at the [Pantheon](https://pantheon.stanford.edu/) from Stanford University.
+This repository provides a demo of FillP, containing the executable files of a client and a server. FillP is a UDP-based full transport protocol implementation of [TACK](https://github.com/superlitong/tack-paper-slides-video). A world-wide performance evaluation of FillP can be seen at the [Pantheon](https://pantheon.stanford.edu/) from Stanford University.
 
 Please cite the papers as follows (or use this [bibtex record](./doc/bibtex.txt)).
 
