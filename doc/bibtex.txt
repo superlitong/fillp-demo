@@ -1,0 +1,27 @@
+@inproceedings{li2020tack,
+author = {Li, Tong and Zheng, Kai and Xu, Ke and Jadhav, Rahul Arvind and Xiong, Tao and Winstein, Keith and Tan, Kun},
+title = {TACK: Improving Wireless Transport Performance by Taming Acknowledgments},
+booktitle = {ACM SIGCOMM},
+pages = {15--30},
+year = {2020},
+}
+
+@article{li2021revisiting,
+  title={Revisiting acknowledgment mechanism for transport control: Modeling, analysis, and implementation},
+  author={Li, Tong and Zheng, Kai and Xu, Ke and Jadhav, Rahul Arvind and Xiong, Tao and Winstein, Keith and Tan, Kun},
+  journal={IEEE/ACM TON},
+  volume={29},
+  number={6},
+  pages={2678--2692},
+  year={2021}
+}
+
+@ARTICLE{li2021ack,
+  author={Li, Tong and Zheng, Kai and Xu, Ke},
+  journal={IEEE Internet Computing}, 
+  title={Acknowledgment on Demand for Transport Control}, 
+  year={2021},
+  volume={25},
+  number={2},
+  pages={109--115}
+  }
